@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>informachic</name>
+	<displayName><![CDATA[InformaChic]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Module return.]]></description>
+	<author><![CDATA[Informa Chic]]></author>
+	<tab><![CDATA[test]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

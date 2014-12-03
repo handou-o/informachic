@@ -1,0 +1,49 @@
+{*<table>
+	<tr>
+		<td>
+			Produit:
+		</td>
+		<td>
+			Taille
+		</td>
+		<td>
+			Prix(TTC)
+		</td>
+		<td>
+			Retourné
+		</td>
+		<td>
+			Taille
+		</td>
+		<td>
+			Couleur
+		</td>
+		<td>
+			Coupe
+		</td>
+		<td>
+			Prix
+		</td>
+		<td>
+			Style
+		</td>
+		<td>
+			J'ai déjà
+		</td>
+		<td>
+			Commentaires
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Chemise
+		</td>
+		<td>
+			Taille S
+		</td>
+		<td>
+			139€
+		</td>
+		
+	</tr>
+</table>*}
